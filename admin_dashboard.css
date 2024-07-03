@@ -1,0 +1,35 @@
+body {
+    background:  #487ac5;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    color: #ffffff; /* Set all text color to white */
+  }
+  
+  h1 {
+    font-size: 3rem;
+    color: #ffffff;
+  }
+  
+  h2, h4 {
+    color: #ffffff;
+  }
+  
+  .btn, .form-control {
+    color: #000000; /* Override text color for buttons and form controls */
+  }
+  
+  .table {
+    color: #ffffff; /* Set table text color to white */
+  }
+  
+  .table thead th {
+    color: #ffffff; /* Override text color for table headers */
+  }
+  
+  .badge {
+    color: #ffffff; /* Set badge text color to white */
+  }
+  
